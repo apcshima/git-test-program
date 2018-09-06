@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#Testと表示させたい
+#testと表示させたい
 
 word = "ttestttt"
 word2 = word[1:5]
